@@ -1,6 +1,6 @@
 - 👋 Salut, moi c'est Georges Sempéré 🐻
 
-	Je suis un développeur spécialisé dans l'univers Javascript (React/Node/Typescript) avec un peu plus de 3 ans d'expérience maintenant. J'ai aussi quelques compétences en PHP et Symfony, mais elles sont un peu rouillées !
+	Je suis un développeur spécialisé dans l'univers Javascript (React/Node/Typescript) avec un peu plus de 4 ans d'expérience maintenant. J'ai aussi quelques compétences en PHP et Symfony, mais elles sont un peu rouillées !
 
 - 👀 Ce qui m'intéresse le plus dans ce métier, c'est de comprendre les besoins exprimés par les clients, tenter de proposer la solution la plus simple et pratique à la fois. Puis de l'implémenter avec efficacité, élégance et pragmatisme.
 
